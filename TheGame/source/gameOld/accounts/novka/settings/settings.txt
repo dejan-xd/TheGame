@@ -1,0 +1,4 @@
+music quiet
+sound quiet
+character 3
+difficulty easy

@@ -1,0 +1,4 @@
+music off
+sound off
+character 3
+difficulty easy
